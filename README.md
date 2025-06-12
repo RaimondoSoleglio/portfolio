@@ -10,8 +10,12 @@ Explore each repo for full source code, READMEs, and usage instructions.
 🔗 For my final CS50 project, check out:  
 👉 [Guess The Movie](https://github.com/RaimondoSoleglio/guessthemovie)
 
+---
+
 # 📘 CS50x Problem Sets
 Repository: [cs50x-psets](https://github.com/yourusername/cs50x-psets)
+
+---
 
 ## PSET1
 - [Cash](https://github.com/RaimondoSoleglio/CS50_psets/tree/main/pset1/cash)
