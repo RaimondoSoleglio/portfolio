@@ -6,8 +6,8 @@ This portfolio organises my journey from C-based CS50 problem sets to more advan
 Explore each repo for full source code, READMEs, and usage instructions.
 ---
 # Featured: 
-🔗 For my final CS50 project, check out:  
-👉 • [**GuessTheMovie**](https://github.com/RaimondoSoleglio/guessthemovie) – A Flask movie guessing game app
+For my final CS50 project, check out:  
+👉 [**GuessTheMovie**](https://github.com/RaimondoSoleglio/guessthemovie) – A Flask movie guessing game app
 
 ---
 
