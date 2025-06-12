@@ -1,2 +1,2 @@
-# all_my_code
-a copy of everything I am coding
+# portfolio
+links to everything I am coding
