@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 A curated showcase of my projects, including CS50 and CS50P (Python) problem sets and final projects.
 This portfolio organises my journey from C-based CS50 problem sets to more advanced Python applications, showcasing growth, problem-solving, and code clarity.
@@ -7,11 +7,11 @@ This portfolio organises my journey from C-based CS50 problem sets to more advan
 
 ---
 # Feature:
-# **GuessTheMovie** – A Flask movie guessing game app
+## **GuessTheMovie** – A Flask movie guessing game app
 🔗 For my final CS50 project, check out:  
 👉 [Guess The Movie](https://github.com/RaimondoSoleglio/guessthemovie)
 
-## 📘 CS50x Problem Sets
+# 📘 CS50x Problem Sets
 Repository: [cs50x-psets](https://github.com/yourusername/cs50x-psets)
 
 ## PSET1
@@ -67,7 +67,7 @@ Repository: [cs50x-psets](https://github.com/yourusername/cs50x-psets)
   
 ---
 
-## 🐍 CS50P (Python)
+# 🐍 CS50P (Python)
 Repository: [cs50p-projects](https://github.com/yourusername/cs50p-projects)
 
 This repository contains all my problem sets and practice projects from [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python).
