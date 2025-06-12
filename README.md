@@ -4,7 +4,6 @@ A showcase of my projects, including CS50 and CS50P (Python) problem sets and fi
 This portfolio organises my journey from C-based CS50 problem sets to more advanced Python applications.
 ---
 Explore each repo for full source code, READMEs, and usage instructions.
-
 ---
 # Feature:
 ## **GuessTheMovie** – A Flask movie guessing game app
